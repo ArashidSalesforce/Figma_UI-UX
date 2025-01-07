@@ -27,10 +27,10 @@ This project includes a series of UI/UX designs created in Figma. Each design sh
 ### Screenshot 2
 ![Screenshot2](figma2.png)
 
-### Screenshot1 3
+### Screenshot 3
 ![Screenshot3](figma3.png)
 
-### Screenshot4
+### Screenshot 4
 ![Screenshot4](figma4.png)
 
 ## Why Choose Figma?
